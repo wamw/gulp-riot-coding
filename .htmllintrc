@@ -1,0 +1,17 @@
+{
+    "plugins": [],
+
+    "attr-name-style": "dash",
+    "attr-no-dup": true,
+    "attr-quote-style": "double",
+    "doctype-first": true,
+    "doctype-html5": true,
+    "id-class-style": "dash",
+    "id-no-dup": true,
+    "img-req-alt": true,
+    "indent-style": "tabs",
+    "indent-width": 4,
+    "line-end-style": "lf",
+    "tag-name-lowercase": true,
+    "title-no-dup": true
+}
